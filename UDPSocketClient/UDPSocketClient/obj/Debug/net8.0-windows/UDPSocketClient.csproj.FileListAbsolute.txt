@@ -1,0 +1,16 @@
+C:\Users\zuky4\source\repos\UDP_Python_Server_and_Csharp_Client\UDPSocketClient\UDPSocketClient\bin\Debug\net8.0-windows\UDPSocketClient.exe
+C:\Users\zuky4\source\repos\UDP_Python_Server_and_Csharp_Client\UDPSocketClient\UDPSocketClient\bin\Debug\net8.0-windows\UDPSocketClient.deps.json
+C:\Users\zuky4\source\repos\UDP_Python_Server_and_Csharp_Client\UDPSocketClient\UDPSocketClient\bin\Debug\net8.0-windows\UDPSocketClient.runtimeconfig.json
+C:\Users\zuky4\source\repos\UDP_Python_Server_and_Csharp_Client\UDPSocketClient\UDPSocketClient\bin\Debug\net8.0-windows\UDPSocketClient.dll
+C:\Users\zuky4\source\repos\UDP_Python_Server_and_Csharp_Client\UDPSocketClient\UDPSocketClient\bin\Debug\net8.0-windows\UDPSocketClient.pdb
+C:\Users\zuky4\source\repos\UDP_Python_Server_and_Csharp_Client\UDPSocketClient\UDPSocketClient\obj\Debug\net8.0-windows\UDPSocketClient.Form1.resources
+C:\Users\zuky4\source\repos\UDP_Python_Server_and_Csharp_Client\UDPSocketClient\UDPSocketClient\obj\Debug\net8.0-windows\UDPSocketClient.csproj.GenerateResource.cache
+C:\Users\zuky4\source\repos\UDP_Python_Server_and_Csharp_Client\UDPSocketClient\UDPSocketClient\obj\Debug\net8.0-windows\UDPSocketClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuky4\source\repos\UDP_Python_Server_and_Csharp_Client\UDPSocketClient\UDPSocketClient\obj\Debug\net8.0-windows\UDPSocketClient.AssemblyInfoInputs.cache
+C:\Users\zuky4\source\repos\UDP_Python_Server_and_Csharp_Client\UDPSocketClient\UDPSocketClient\obj\Debug\net8.0-windows\UDPSocketClient.AssemblyInfo.cs
+C:\Users\zuky4\source\repos\UDP_Python_Server_and_Csharp_Client\UDPSocketClient\UDPSocketClient\obj\Debug\net8.0-windows\UDPSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\zuky4\source\repos\UDP_Python_Server_and_Csharp_Client\UDPSocketClient\UDPSocketClient\obj\Debug\net8.0-windows\UDPSocketClient.dll
+C:\Users\zuky4\source\repos\UDP_Python_Server_and_Csharp_Client\UDPSocketClient\UDPSocketClient\obj\Debug\net8.0-windows\refint\UDPSocketClient.dll
+C:\Users\zuky4\source\repos\UDP_Python_Server_and_Csharp_Client\UDPSocketClient\UDPSocketClient\obj\Debug\net8.0-windows\UDPSocketClient.pdb
+C:\Users\zuky4\source\repos\UDP_Python_Server_and_Csharp_Client\UDPSocketClient\UDPSocketClient\obj\Debug\net8.0-windows\UDPSocketClient.genruntimeconfig.cache
+C:\Users\zuky4\source\repos\UDP_Python_Server_and_Csharp_Client\UDPSocketClient\UDPSocketClient\obj\Debug\net8.0-windows\ref\UDPSocketClient.dll
